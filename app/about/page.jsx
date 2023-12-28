@@ -4,7 +4,7 @@ import Link from "next/link"
   return (
     <div>
         <h1>About page</h1>
-        <Link href='/'>Home Page</Link>
+        <Link href='/'>Homewe3ghehhdee Page</Link>
     </div>
   )
 }
