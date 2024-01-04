@@ -15,4 +15,5 @@ module.exports = {
     },
   },
   plugins: [require('@tailwindcss/typography'),require('daisyui')],
+  //this is where I added the extra packages needed for the assignment
 }
