@@ -1,0 +1,1 @@
+//this folder is inside the (dashboard) folder, it is put that way fir the folder not to appear in the url, but it groups other files together
